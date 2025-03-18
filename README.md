@@ -43,11 +43,7 @@ This project is developed using Next.js and includes modern, responsive UI/UX fo
 - **Node.js**: Ensure Node.js is installed (version 16 or above).
 - **Git**: Make sure Git is installed for cloning the repository.
 
-### Cloning the Repository
-To clone this project, run the following command:
-```bash
-git clone https://github.com/just-abdullah-dev/ip-dns-ssl-lookup.git
-cd ip-dns-ssl-lookup
+
 
 ```
 # Installation
@@ -67,19 +63,7 @@ cd ip-dns-ssl-lookup
    http://localhost:3000
    ```
 
-## On macOS:
-1. Open the **Terminal**.
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
-4. Open the project in your browser:
-   ```arduino
-   http://localhost:3000
+
    ```
 
 ---
@@ -105,7 +89,5 @@ npm run start
 
 ---
 
-# Author
 
-This project is developed and maintained by **[@just-abdullah-dev](https://github.com/just-abdullah-dev)**.
 ```
